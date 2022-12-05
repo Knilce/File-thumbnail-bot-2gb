@@ -1,5 +1,4 @@
 # File-thumbnail-bot-2gb
-Basic filerename bot
 
 Telegram File Renamer Bot 
 
@@ -17,7 +16,7 @@ Telegram File Renamer Bot
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/nikhivishwa/renamebotfile">
+<a href="https://heroku.com/deploy?template=https://github.com/Knilce/File-thumbnail-bot-2gb">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -67,14 +66,9 @@ broadcast - admin only
 
 ## 🤩 INSPIRATION
 
-<a href="https://youtube.com/c/MoTech_YT">
-   <p>❣️ MoTech 🔥</p>
+<a href="https://telegram.dog/curoBotz">
+   <p>🆕 CuroBotz </p>
   </a>
-
-## ⚠️ DISCLAIMER ⚠️
-
-
-Note to Guyzz Githubil who is editing someone else's repo ⚠️ Do not change the source code even if you change any link 🙏 Making oru repo is not that simple, there is a lot of trouble and yet you are making it public 🥺 Thank you for showing it 🙏 Please put credits & source cod 🙏🥺
 
 
 
