@@ -1,0 +1,51 @@
+{
+    "name": "File Thumbnail Bot",
+    "description": "Telegram File Renamer Bot ",
+    "logo": "https://telegra.ph/file/37dbe8bf5f16bc68f87ba.jpg",
+    "keywords": [
+        "Renamer Bot",
+        "Mongo DB"
+    ],
+    "repository": "https://github.com/Knilce/File-thumbnail-bot-2gb",
+    "env": {
+        "API_ID": {
+            "description": "Your APP ID From my.telegram.org ",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash From my.telegram.org ",
+            "value": ""
+        },
+        "FORCE_SUB": {
+            "description": "Your force sub channel user name without [@] ",
+            "value": "tech_ai_bots",
+            "required": true 
+        },
+        "BOT_TOKEN": {
+            "description": "Your Bot Token From @BotFather",
+            "value": ""
+        },
+        "ADMIN": {
+            "description":"Add Your User ID multiple is use space to split"
+        },
+        "DB_URL": {
+            "description": "Your Mongo DB URL Obtained From mongodb.com",
+            "value": ""
+        },
+        "DB_NAME":{ 
+            "description":"Your Mongo DB Database Name ",
+            "value": "",
+            "required": false
+        },
+        "START_PIC": {
+            "description": "Your Bot start cmd Pic from @MT_TelegraPH_Bot",
+            "value": "https://telegra.ph/file/1992cd13f57ad54a6e687.jpg"
+        }
+    },
+    "stack": "heroku-22",
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
